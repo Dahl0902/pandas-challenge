@@ -1,0 +1,5 @@
+1. 84% of the players of this game are male but males make less purchases then the other genders and spend less per transaction. They still lead in Total Purchase Value due to how much they out number the other and female groups.
+
+2. The 20 and Under Age Group makes about 28% less purchase then the leading Age Group (21-30) but the have the highest Average Purchase Price which puts the 20 and Under Age Group behind the 21-30 Age Group by only about 22%
+
+3.Number of Purchases seems to matter more for Total Revenue than Average Purchase Price. This would need further support by digging deeper into the top spenders of the game.
